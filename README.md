@@ -2,8 +2,12 @@
 
 Welcome to [our](https://www.finance.wiwi.tu-dortmund.de) lecture repo for the course "Data & AI in Economics" at the [TU Dortmund University](https://www.tu-dortmund.de). 
 
+# Links
+[Lectures](lectures.md)
+[Literature](literature.md)
+[Missions](missions.md)
 
-
+[Timetable](https://moodle.tu-dortmund.de)
 
 # Local environment setup
 Since we will put everything on our server, you will **not** need to do this. However, if you want to work on your local machine, you will need to do the following:

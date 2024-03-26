@@ -3,6 +3,13 @@
 
 [Think Python](https://allendowney.github.io/ThinkPython/)
 
+[Papers with code](https://paperswithcode.com/)
+
+# Data
+[Web Scrapping I ](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/)
+
+[Web Scrapping II](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
+
 # Causality / Causal inference
 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 
@@ -17,7 +24,7 @@
 [Connection to ML](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.html)
 
 # ML
-
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 # LLMs
 [Finetuning Llama](https://www.philschmid.de/instruction-tune-llama-2)
