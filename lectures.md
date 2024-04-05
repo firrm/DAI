@@ -7,7 +7,8 @@
 [scipy](intros/006_intro_to_scipy.ipynb)
 [web scraping](intros/007_intro_to_web_scraping.ipynb)
 # 1. Intro
-https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb
+[Introduction to data and AI in economics](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01_intro.ipynb)
+[Paradox](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01a_paradox.ipynb)
 
 # 2. Causal Inference
 
