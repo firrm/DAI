@@ -9,7 +9,11 @@ Welcome to [our](https://www.finance.wiwi.tu-dortmund.de) lecture repo for the c
 
 [Timetable](https://moodle.tu-dortmund.de)
 
-# Local environment setup
+# Setup
+As a student you are elegible to use the Github Student program including Copilot, I suggest you sign up for it [here](https://education.github.com/benefits?type=student).
+
+
+# Local environment setup (optional)
 Since we will put everything on our server, you will **not** need to do this. However, if you want to work on your local machine, you will need to do the following:
 
 ## How to use Git
