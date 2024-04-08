@@ -4,7 +4,9 @@ Welcome to [our](https://www.finance.wiwi.tu-dortmund.de) lecture repo for the c
 
 # Links
 [Lectures](lectures.md)
+
 [Literature](literature.md)
+
 [Missions](missions.md)
 
 [Timetable](https://moodle.tu-dortmund.de)
