@@ -1,2 +1,5 @@
-1. Replicate [Dividen List](https://thedividendlist.com/) with EU stocks
-2. 
+-tbd-
+a. Replicate [Dividend List](https://thedividendlist.com/) with EU stocks 
+b
+c
+d

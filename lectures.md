@@ -1,7 +1,7 @@
 # Recap
 
 Please familiarize yourself with the following topics we discussed in more detail in Financial Econometrics for this lecture.
-Also see the notes on the [readme](README.md) and the [literature](literature.md) for more information.
+Also see the notes on the [readme][README.md] and the [literature][literature.md] for more information.
 
 
 [Jupyter](lectures/intros/001_intro_to_jupyter.ipynb)
@@ -21,16 +21,18 @@ Also see the notes on the [readme](README.md) and the [literature](literature.md
 
 
 # 1. Intro
-[Introduction to data and AI in economics](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01_intro.ipynb)
+[Introduction to data and AI in economics](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01_Intro.ipynb)
 
-[Paradox](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01a_paradox.ipynb)
+[Paradox](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01a_Paradox.ipynb)
 
 # 2. Causal Inference
-[Causal Inference](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/02_causal_inference.ipynb)
+[Causal Inference](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/02_CausalInference.ipynb)
 # 3. Supervised Learning
 [Supervised Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03a_supervised_learning.ipynb)
 
 [Supervised Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03b_supervised_learning.ipynb)
+
+[Supervised Learning IIO](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03c_supervised_learning.ipynb)
 # 4. Unsupervised Learning
 [Unsupervised Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/04_unsupervised_learning.ipynb)
 
@@ -39,5 +41,5 @@ Also see the notes on the [readme](README.md) and the [literature](literature.md
 
 [Deep Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/05b_deep_learning.ipynb)
 
-# 6. Natural Language Processing and LLM's
+# 6. Natural Language Processing and LLMs
 tbd
