@@ -27,6 +27,9 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 
 # 2. Causal Inference
 [Causal Inference](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/02_CausalInference.ipynb)
+
+[Exercise](https://colab.research.google.com/github/firrm/DAI/blob/main/exercises/02_CausalInference.ipynb)
+
 # 3. Supervised Learning
 [Supervised Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03a_supervised_learning.ipynb)
 
