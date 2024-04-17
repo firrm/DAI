@@ -40,6 +40,8 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 [Unsupervised Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/04_unsupervised_learning.ipynb)
 
 # 5. Deep Learning
+** under revision **
+
 [Deep Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/05a_deep_learning.ipynb)
 
 [Deep Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/05b_deep_learning.ipynb)
