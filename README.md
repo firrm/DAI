@@ -50,7 +50,13 @@ To install the dependencies of the project, run the following command in the ter
 ```bash
 poetry install
 ```
+### From poetry to pip
+If you want to use pip instead of poetry, you can run the following command in the terminal or the command prompt:
 
+```bash
+poetry export -f requirements.txt --output requirements.txt
+pip install -r requirements.txt
+```
 
 ## How to use Jupyter Notebooks
 We will use Jupyter Notebooks to write the code. Jupyter Notebooks are a great tool for data analysis and visualization. They allow you to write and execute code, view the results, and add text and images. You can also export the notebooks to different formats, such as HTML, PDF, or slides.
