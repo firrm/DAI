@@ -18,7 +18,8 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 
 [web scraping](lectures/intros/007_intro_to_web_scraping.ipynb)
 
-
+# Talks
+[Talk by Jan Schroeder](https://github.com/janlukasschroeder/ai-for-financial-analysis-and-research)
 
 # 1. Intro
 [Introduction to data and AI in economics](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01_Intro.ipynb)
@@ -46,5 +47,3 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 
 [Deep Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/05b_deep_learning.ipynb)
 
-# 6. Natural Language Processing and LLMs
-tbd
