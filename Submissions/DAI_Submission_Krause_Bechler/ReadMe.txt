@@ -1,0 +1,1 @@
+Die ausführbaren Notebooks sind auf dem Server gespeichert in dem Ordner Krause gespeichert. Die Notebooks hier sind nur Google colab Notebooks. Die Daten sind auch auf dem Server abgelegt.
