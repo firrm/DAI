@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "DAI Lecture Repo"
+version = "2025.1.0.1"
+description = ""
+authors = ["Peter N Posch <peter.posch@udo.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12, <4.0"
+pandas = "^2.2.1"
+numpy = "^1.26.4"
+jupyter = "^1.0.0"
+plotly = "^5.20.0"
+matplotlib = "^3.8.3"
+scikit-learn = "^1.4.1.post1"
+mglearn = "^0.2.0"
+graphviz = "^0.20.3"
+keras = "^3.1.1"
+tensorflow = "^2.16.1"
+#dowhy = "^0.11.1"
+openai = "^1.14.3"
+python-dotenv = "^1.0.1"
+tables = "^3.9.2"
+empiricaldist = "^0.7.2"
+networkx = "^3.2.1"
+seaborn = "^0.13.2"
+poetry-plugin-export = "^1.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
