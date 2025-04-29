@@ -24,7 +24,7 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 # 1. Intro
 [Introduction to data and AI in economics](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01_Intro.ipynb)
 
-[Paradox](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01a_Paradox.ipynb)
+[Paradox](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/01a_Paradoxon.ipynb)
 
 # 2. Causal Inference
 [Causal Inference](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/02_CausalInference.ipynb)
@@ -36,7 +36,7 @@ Also see the notes on the [readme][README.md] and the [literature][literature.md
 
 [Supervised Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03b_supervised_learning.ipynb)
 
-[Supervised Learning IIO](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03c_supervised_learning.ipynb)
+[Supervised Learning III](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/03c_supervised_learning.ipynb)
 # 4. Unsupervised Learning
 [Unsupervised Learning](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/04_unsupervised_learning.ipynb)
 
