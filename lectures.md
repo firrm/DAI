@@ -1,7 +1,7 @@
 # Recap
 
 Please familiarize yourself with the following topics we discussed in more detail in Financial Econometrics for this lecture.
-Also see the notes on the [readme][README.md] and the [literature][literature.md] for more information.
+Also see the notes on the [readme](README.md) and the [literature](literature.md) for more information.
 
 
 [Jupyter](lectures/intros/001_intro_to_jupyter.ipynb)
