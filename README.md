@@ -38,6 +38,28 @@ We will use Python as the programming language for this course. Python is a very
 ### Install Python
 To install Python, follow the instructions on the [official website](https://www.python.org/).
 
+### Deal with different Python Environments
+Install pyenv
+```bash
+ curl https://pyenv.run | bash
+```
+
+Add it to your bash 
+```bash
+ export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+```
+
+Install needed version, eg. 3.12
+```bash
+pyenv install 3.12
+cd /path/to/your/project
+pyenv local 3.12
+poetry env use $(pyenv which python)
+poetry install
+```
+
 ## How to use Poetry
 We will use Poetry to manage the dependencies of the project. Poetry is a tool for dependency management and packaging in Python. It allows you to declare the dependencies of your project in a simple and declarative way, and it will automatically install the dependencies for you.
 
@@ -54,7 +76,7 @@ poetry install
 If you want to use pip instead of poetry, you can run the following command in the terminal or the command prompt:
 
 ```bash
-poetry export -f requirements.txt --output requirements.txt
+poetry export -f requirements.txt --output requirements.txt --without-hashes
 pip install -r requirements.txt
 ```
 
