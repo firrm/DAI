@@ -23,7 +23,7 @@ empiricaldist = "^0.7.2"
 networkx = "^3.2.1"
 seaborn = "^0.13.2"
 poetry-plugin-export = "^1.8.0"
-tensorflow = "^2.19.0"
+tensorflow = "^2.18.0"
 notebook = "^7.4.2"
 
 
