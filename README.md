@@ -9,6 +9,8 @@ Welcome to [our](https://www.finance.wiwi.tu-dortmund.de) lecture repo for the c
 
 [Missions](missions.md)
 
+[Datasets](datasets.md)
+
 [Timetable](https://moodle.tu-dortmund.de)
 
 # Setup

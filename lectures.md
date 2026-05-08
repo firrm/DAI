@@ -48,6 +48,11 @@ Also see the notes on the [readme](README.md) and the [literature](literature.md
 [Deep Learning II](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/05b_deep_learning.ipynb)
 
 
+# 6. Transformers & GPT
+
+[Transformers & GPT](https://colab.research.google.com/github/firrm/DAI/blob/main/lectures/06_GPT.ipynb)
+
+
 # Mission
 
 [Proposal Template](mission/mission_proposal_template.ipynb)

@@ -34,7 +34,12 @@ dependencies = [
     "beautifulsoup4",
     "requests>=2.33.0",
     "newsapi-python",
-    "lxml",
+    "lxml>=6.1.0",
+    "jupyterlab>=4.5.7",
+    "jupyter-server>=2.18.0",
+    "notebook>=7.5.6",
+    "nbconvert>=7.17.1",
+    "mistune>=3.2.1",
 ]
 
 [tool.uv]
