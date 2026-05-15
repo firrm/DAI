@@ -348,3 +348,5 @@ cython_debug/
 *.weights.h5
 exercises/decision_tree.dot
 exercises/cache/
+
+.venv
