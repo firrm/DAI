@@ -4,6 +4,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ADDED MANUALLY
+# Project data files
+*.csv
+*.xlsx
+*.parquet
+*.zip
+data/
+.ipynb_checkpoints/
+
 # C extensions
 *.so
 
