@@ -350,3 +350,4 @@ exercises/decision_tree.dot
 exercises/cache/
 
 .venv
+data/data_project
