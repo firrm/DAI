@@ -26,5 +26,7 @@
 # ML
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
+[e-means: k-means at scale (preprint, playground)](https://e-means.github.io/)
+
 # LLMs
 [Finetuning Llama](https://www.philschmid.de/instruction-tune-llama-2)

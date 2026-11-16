@@ -20,3 +20,4 @@ wrds
 newsapi-python
 plotnine
 tables
+faiss-cpu>=1.16.0

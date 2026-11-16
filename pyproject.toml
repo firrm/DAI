@@ -13,6 +13,7 @@ dependencies = [
     "plotly>=5.20.0,<6",
     "matplotlib>=3.8.3,<4",
     "scikit-learn>=1.4.1.post1,<2",
+    "faiss-cpu>=1.16.0,<2",
     "mglearn>=0.2.0,<0.3",
     "graphviz>=0.20.3,<0.21",
     "keras>=3.1.1,<4",
