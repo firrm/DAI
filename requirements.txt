@@ -10,6 +10,7 @@ openpyxl>=3.1.0
 plotly>=5.20.0
 matplotlib>=3.8.3
 scikit-learn>=1.4.1
+faiss-cpu>=1.16.0
 mglearn>=0.2.0
 graphviz>=0.20.3
 keras>=3.1.1
